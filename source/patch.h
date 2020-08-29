@@ -12,9 +12,9 @@
 
 #define PATCH_TEXT_FORMAT ".pchtxt"
 
-#define ATMOS_DIR        "/atmosphere/"
-#define ATMOS_TITLE_DIR  "/atmosphere/titles/"
-#define ATMOS_EXEPCH_DIR "/atmosphere/exefs_patches/"
+#define SXOS_DIR        "/sxos/"
+#define SXOS_TITLE_DIR  "/sxos/titles/"
+#define SXOS_EXEPCH_DIR "/sxos/exefs_patches/"
 
 #define NSOBID_MAGIC_LOWER 0x2D6469626F736E40 // "@nsobid-"
 #define NSOBID_MAGIC_UPPER 0x2D4449424F534E40 // "@NSOBID-"

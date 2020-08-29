@@ -2,8 +2,8 @@
 #include "patch.h"
 
 int checkRequirement() {
-    if(!isDirectory(ATMOS_DIR)) {
-    	userConfirm("Do you even Atmosphere bro?");
+    if(!isDirectory(SXOS_DIR)) {
+    	userConfirm("Do you even SX OS bro?");
     	return -1;
     }
     return 0;
